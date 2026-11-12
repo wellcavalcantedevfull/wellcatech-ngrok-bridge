@@ -21,6 +21,13 @@ Durante atendimentos de suporte técnico remoto (como redirecionamento USB/IP, a
 - **Threading** (Execução assíncrona sem travar a interface)
 - **PyInstaller** (Empacotamento standalone para Windows)
 
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/wellcavalcantedevfull/wellcatech-ngrok-bridge.git](https://github.com/wellcavalcantedevfull/wellcatech-ngrok-bridge.git)
+   cd wellcatech-ngrok-bridge
+
 ## 📁 Estrutura do Projeto
 ```text
 wellcatech-ngrok-bridge/
