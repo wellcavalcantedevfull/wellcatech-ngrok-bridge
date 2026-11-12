@@ -1,0 +1,13 @@
+# Credenciais locais (NUNCA subir para o GitHub)
+config_ngrok.json
+
+# Arquivos de compilação do PyInstaller
+build/
+dist/
+*.spec
+
+# Cache e ambientes virtuais Python
+__pycache__/
+*.py[cod]
+venv/
+.env
